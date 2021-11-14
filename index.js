@@ -202,6 +202,7 @@ app.get("/", (req, res) => {
   res.send("Hello car!");
 });
 
-app.listen(port, () => {
-  console.log(`listening at ${port}`);
-});
+// app.listen(port, () => {
+//   console.log(`listening at ${port}`);
+// });
+app.listen(process.env.PORT || port);
