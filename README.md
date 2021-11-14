@@ -37,4 +37,4 @@ A responsive Car selling niche site.
 
 # lIVE SITE LINK
 
-VISIT THIS SITE(https://github.com/facebook/create-react-app).
+VISIT THIS SITE(https://assignment-12-dac9e.web.app/home).
